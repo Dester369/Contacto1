@@ -1,0 +1,31 @@
+
+
+header {
+    text-align: center;
+    margin-bottom: 20px;
+    background-color: black;
+    color: orangered;
+}
+
+
+
+
+h2 {
+    color: #333;
+    margin-bottom: 20px;
+}
+
+
+input, textarea, button {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid ;
+    
+}
+
+
+button {
+    background-color: orangered;
+    color: white;
+}
